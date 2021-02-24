@@ -10,7 +10,7 @@
 
 :book: Unidad 1
 
- 1. :page_with_curl:[C0.1_IntegrarEquiposdeTrabajo](C0.1_Integrar-equipos-de-trabajo_KarlaUrrea.md)
+:page_with_curl: 1. [C0.1_IntegrarEquiposdeTrabajo](C0.1_Integrar-equipos-de-trabajo_KarlaUrrea.md)
 
 
 :book: Unidad 2
