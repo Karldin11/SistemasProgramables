@@ -8,6 +8,9 @@
 ## SCC-1023/SC7A SISTEMAS PROGRAMABLES
 ### Karla Dinora Urrea Soto No. 17211568
 
+### :school_satchel: Equipo: Sistemáticos
+### 👨‍🏫 Asesor: Jaime Leonardo Enriquez Alvarez
+
 :book: Unidad 1
 
 - :page_with_curl: [C0.1_Integrar Equipos de Trabajo](Trabajos/C0.1_Integrar-equipos-de-trabajo_KarlaUrrea.md)
