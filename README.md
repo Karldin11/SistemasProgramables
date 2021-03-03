@@ -15,6 +15,9 @@
 
 - :page_with_curl: [C0.1_Integrar Equipos de Trabajo](Trabajos/C0.1_Integrar-equipos-de-trabajo_KarlaUrrea.md)
 - :page_with_curl: [C1.1_Cuestionario electrónica básica y sus elementos](Trabajos/C1.1_ElectronicaBasica_y_elementos_KarlaUrrea.md)
+- :page_with_curl: [C1.2 Circuito electrónico básico](Trabajos/C1.2_Circuito_electronico_basico_KarlaUrrea.md)
+
+
 
 
 :book: Unidad 2
