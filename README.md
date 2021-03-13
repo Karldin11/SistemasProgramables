@@ -17,6 +17,7 @@
 - :page_with_curl: [C1.1_Cuestionario electrónica básica y sus elementos](Trabajos/C1.1_ElectronicaBasica_y_elementos_KarlaUrrea.md)
 - :page_with_curl: [C1.2 Circuito electrónico básico](Trabajos/C1.2_Circuito_electronico_basico_KarlaUrrea.md)
 - :page_with_curl: [C1.3 Circuito electrónico divisor de tensión](Trabajos/C1.3_Circuito_electronico_divisor_de_voltaje_KarlaUrrea.md)
+- :page_with_curl: [A.1.2 Realizar un sensor medidor de luz (lux) a través de un circuito electrónico, utilizando un simulador, y un LDR](https://github.com/Karldin11/SistemasProgramables/blob/main/Trabajos/A1.2_KarlaUrrea_Sistematicos.md)
 
 
 
