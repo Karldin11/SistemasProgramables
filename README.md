@@ -20,7 +20,7 @@
 - :page_with_curl: [A.1.2 Realizar un sensor medidor de luz (lux) a través de un circuito electrónico, utilizando un simulador, y un LDR](https://github.com/Karldin11/SistemasProgramables/blob/main/Trabajos/A1.2_KarlaUrrea_Sistematicos.md)
 - :page_with_curl: [C1.4 Circuito electrónico para el acondicionamiento de señal con un amplificador operacional](https://github.com/Karldin11/SistemasProgramables/blob/main/Trabajos/C1.4_Acondicionador_de_senal_AmOP_KarlaUrrea.md)
 - :page_with_curl: [C1.5 Tipo de sensores de acuerdo con su uso aplicativo](https://github.com/Karldin11/SistemasProgramables/blob/main/Trabajos/C1.5_Tipos_de_sensores_Karla_Urrea.md)
-- :page_with_curl: [A.1.4 Realizar un sensor medidor de temperatura a través de un circuito electrónico, utilizando un simulador, y un Transistor TMP36.](https://github.com/ShaaronPR/Sistemas-Programables/blob/main/A1.4_NombreApellido_Sistematicos.md)
+- :page_with_curl: [A.1.3  Realizar una investigación y presentación para ser expuesta en clase sobre el tema de sensores.](https://github.com/ShaaronPR/Sistemas-Programables/blob/main/A1.3_NombreApellido_Sistematicos.md)
 
 
 
