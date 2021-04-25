@@ -27,7 +27,6 @@
 
 - :page_with_curl: [C2.1 Cuestionario Actuadores y su clasificación](Trabajos/C2.1_Actuadores_Neumaticos_e_hidraulicos-Karla_Urrea.md)
 
-:book: Unidad 2
 
 
 :book: Unidad 3
