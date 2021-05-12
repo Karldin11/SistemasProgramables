@@ -28,6 +28,7 @@
 - :page_with_curl: [C2.1 Cuestionario Actuadores y su clasificación](Trabajos/C2.1_Actuadores_Neumaticos_e_hidraulicos-Karla_Urrea.md)
 - :page_with_curl: [C2.2 Cuestionario Actuadores Eléctricos](Trabajos/C2.2_CuestionarioActuadoresElectricos_KarlaUrrea.md)
 - :school_satchel:[A2.1 Investigación de actuadores eléctricos](https://github.com/ShaaronPR/Sistemas-Programables/blob/main/A2.1_NombreApellido_Sistematicos.md)
+- 📃[C2.3 Circuito temporizador 555](Trabajos/C2.3_CircuitoTemporizador555_KarlaUrrea.md)
 
 
 :book: Unidad 3
