@@ -29,6 +29,7 @@
 - :page_with_curl: [C2.2 Cuestionario Actuadores Eléctricos](Trabajos/C2.2_CuestionarioActuadoresElectricos_KarlaUrrea.md)
 - :school_satchel:[A2.1 Investigación de actuadores eléctricos](https://github.com/ShaaronPR/Sistemas-Programables/blob/main/A2.1_NombreApellido_Sistematicos.md)
 - 📃[C2.3 Circuito temporizador 555](Trabajos/C2.3_CircuitoTemporizador555_KarlaUrrea.md)
+- 🎒[A2.2 Circuito temporizador 555 y motor eléctrico](https://github.com/ShaaronPR/Sistemas-Programables/blob/main/A2.2_NombreApellido_Sistematicos.md)
 
 
 :book: Unidad 3
