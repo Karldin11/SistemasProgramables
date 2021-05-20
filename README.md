@@ -31,9 +31,10 @@
 - 📃[C2.3 Circuito temporizador 555](Trabajos/C2.3_CircuitoTemporizador555_KarlaUrrea.md)
 - 🎒[A2.2 Circuito temporizador 555 y motor eléctrico](https://github.com/ShaaronPR/Sistemas-Programables/blob/main/A2.2_NombreApellido_Sistematicos.md)
 
-
 :book: Unidad 3
 
+- 📃[C3.1 Arduino: Salida digital](https://github.com/Karldin11/SistemasProgramables/blob/main/Trabajos/C3.1_ArduinoUnoSalidaDigital_KarlaUrrea.md)
+- 📃[C3.2 Arduino: Entrada digital]
 
 :book: Unidad 4
 
