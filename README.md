@@ -35,6 +35,7 @@
 
 - 📃[C3.1 Arduino: Salida digital](https://github.com/Karldin11/SistemasProgramables/blob/main/Trabajos/C3.1_ArduinoUnoSalidaDigital_KarlaUrrea.md)
 - 📃[C3.2 Arduino: Entrada digital](https://github.com/Karldin11/SistemasProgramables/blob/main/Trabajos/C3.2_ArduinoIDE_EntradaDigitalImpresionSerial_KarlaUrrea.md)
+- 📃[C3.4 Arduino: Entrada analógica y salida digital](https://github.com/Karldin11/SistemasProgramables/blob/main/Trabajos/C3.3_ArduinoIDE_EntradaAnalogaFuncionSerial_KarlaUrrea.md)
 
 :book: Unidad 4
 
