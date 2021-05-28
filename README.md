@@ -37,6 +37,10 @@
 - 📃[C3.2 Arduino: Entrada digital](https://github.com/Karldin11/SistemasProgramables/blob/main/Trabajos/C3.2_ArduinoIDE_EntradaDigitalImpresionSerial_KarlaUrrea.md)
 - 📃[C3.3 Arduino: Entrada analógica](https://github.com/Karldin11/SistemasProgramables/blob/main/Trabajos/C3.3_ArduinoIDE_EntradaAnalogaFuncionSerial_KarlaUrrea.md)
 - 📃[C3.4 Arduino: Entrada analógica y salida digital](Trabajos/C3.4_ArduinoIDE_EntradaSalidaSensorFuncionSerial_KarlaUrrea.md)
+- 🎒[A3.1 Circuito sensor de deteccion de objetos](https://github.com/ShaaronPR/Sistemas-Programables/blob/main/A3.1_Circuito_sensor_de_deteccion_de_objetos-NombreApellido.md)
+- 🎒 [A3.2 Circuito y programacion de un sensor de tactor con NodeMCU ESP32](https://github.com/ShaaronPR/Sistemas-Programables/blob/main/A3.2_Circuito_y_programacion_de_un_sensor_de_tactor_con_NodeMCU_ESP32-NombreApellido.md)
+- 🎒 [A3.3 Circuito de medicion de temperatura a traves de un NodeMCU ESP32](https://github.com/ShaaronPR/Sistemas-Programables/blob/main/A3.3_Circuito_de_medicion_temperatura_a_traves_de_un_NodeMCU_ESP32-NombreApellido.md.md)
+> 
 
 :book: Unidad 4
 
